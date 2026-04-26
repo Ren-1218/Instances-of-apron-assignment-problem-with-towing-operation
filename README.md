@@ -5,7 +5,7 @@ for the apron assignment problem with towing operation.
 
 ## Data Description
 Each instance includes the following attributes:
-Aircraft ID, aircraft type, origin (Destination), start Time, end time, 
+Aircraft ID, aircraft type, origin (Destination), start time, end time, 
 and activity type.
 
 ## Note
